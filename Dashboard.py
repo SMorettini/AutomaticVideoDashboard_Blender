@@ -3,7 +3,7 @@
 
 KEY_COLUMN_LINE_CHART=['accelerometer_x','accelerometer_y']  #List all the column name that correspond to a line chart
 MAKE_LINE_GRAPH=False #Put a True to make the line chart, remember it can be slow and it WILL DELETE THE LINE CHART ALREADY IN THE SCENE WITH THE SAME NAME
-current_folder='/home/s-morettini/workspace/Dashboard/' #Folder of this file and of the data.csv
+current_folder='/home/**/**/**/workspace/Dashboard/' #Folder of this file and of the data.csv
 ########################################################################
 
 packages_path=current_folder+'venv/lib/python3.7/site-packages'
